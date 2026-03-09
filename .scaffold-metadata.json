@@ -1,0 +1,19 @@
+{
+  "projectId": "69afcdda",
+  "appName": "classic-cuts-app",
+  "businessName": "Classic Cuts",
+  "features": [
+    "booking",
+    "client-crm",
+    "sms-reminders",
+    "commission-tracking"
+  ],
+  "businessInfo": {
+    "name": "Classic Cuts",
+    "address": "Memphis, TN",
+    "barber_count": 5,
+    "booking_system": "Square Appointments"
+  },
+  "generatedDir": "/Users/dongsub/Documents/Potential/projects/hire-agent/agent-house-bot/generated/classic-cuts-app-f8bdfe5a",
+  "createdAt": "2026-03-09T15:50:57.716Z"
+}
